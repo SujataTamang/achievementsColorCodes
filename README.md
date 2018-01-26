@@ -6,3 +6,4 @@ Level 3 : Yellow
 Level 2 : Orange
 Level 1 : Red 
 Level 0 : Grey
+Level 5 : Magento
